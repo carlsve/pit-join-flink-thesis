@@ -1,0 +1,7 @@
+{
+    "parallelism": [4],
+    "join_types": ["exploding_smj", "exploding", "union", "pit"],
+    "ids": [100000],
+    "variations": ["20_2", "80_8"],
+    "keys_per_id_left": [1, 5]
+}

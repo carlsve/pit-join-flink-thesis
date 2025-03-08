@@ -1,0 +1,7 @@
+# The backend that will be used to store operator state checkpoints
+state.backend: rocksdb
+
+# Directory for storing checkpoints
+state.checkpoints.dir: file://./outputs/checkpoints
+
+state.checkpoint-storage: filesystem

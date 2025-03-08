@@ -1,0 +1,7 @@
+{
+    "parallelism": [4],
+    "join_types": ["pit"],
+    "ids": [10000],
+    "variations": ["20_2"],
+    "keys_per_id_left": [5]
+}
